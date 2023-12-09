@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52c72f67-40b8-49f3-aa43-c34dd238cdcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jfoenix-9.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/messengerfx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/messengerfx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/Logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/Logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/Person1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/Person2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/laugh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/looking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/sent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Mess/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/messengerfx/messengerChat.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/lib/mysql-connector-j-8.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/DictionaryCommandline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/DictionaryManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/GameDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/Trie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/BaseFactory/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/ControllerAddWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/ControllerSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/ControllerTranslate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/HangManController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Data/dictionaries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/d/dictionary/Data/dictionary.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/AddNew.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Background.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Hangman.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/CSS/Text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/Hangman.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/Scene.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/SceneSearch.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/SceneTranslate.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/WordPuzzle.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/DashBoard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/R_11zon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/background0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/bin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/bkground.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/burger-bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/exchange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/game-console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/hangman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/hangmanbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/loudspeaker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/searchWord.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/d/dictionary/image/translate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDic/src/main/resources/icon.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZIOX2D7fxRl7kr5bYtL0hqaKcO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_directory_selection": "C:/Users/ACER/Documents/TestCode/MessengerFX/src/main/java/com",
+    "last_opened_file_path": "C:/Users/ACER/Documents/TestCode/MessengerFX/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Documents\TestCode\MessengerFX\src" />
+      <recent name="C:\Users\ACER\Documents\TestCode\MessengerFX\src\main\resources\Mess" />
+      <recent name="C:\Users\ACER\Documents\TestCode\MessengerFX\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Documents\TestCode\MessengerFX\src\main\resources\Mess" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52c72f67-40b8-49f3-aa43-c34dd238cdcc" name="Changes" comment="" />
+      <created>1702106164101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702106164101</updated>
+      <workItem from="1702106165168" duration="2716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
